@@ -112,7 +112,15 @@ Normal BMI qrupunda ən çox rast gəlinən diaqnoz isə normal hamiləliklə ba
 
 ![Korrelyasiya](screenshots/korelyasiya.png)
 
-Dəyişənlər arasındakı əlaqələr araşdırılmışdır.
+Pasiyentlərin klinik göstəriciləri arasındakı əlaqə Pearson korrelyasiya analizi vasitəsilə qiymətləndirilmişdir. Məqsəd müxtəlif sağlamlıq göstəricilərinin bir-biri ilə nə dərəcədə əlaqəli olduğunu müəyyən etməkdir.
+
+Nəticələr göstərir ki, ən güclü əlaqə çəki ilə BMI arasında mövcuddur (0.92). Bu gözlənilən nəticədir, çünki insanın çəkisi artdıqca BMI göstəricisi də artır. Boy ilə çəki arasında da yüksək əlaqə müşahidə olunur (0.84).
+
+Sistolik və diastolik qan təzyiqi göstəriciləri arasında 0.71 korrelyasiya müəyyən edilmişdir. Bu isə təzyiq göstəricilərinin adətən birlikdə dəyişdiyini göstərir.
+
+Qlükoza ilə HbA1c arasında müsbət əlaqənin olması (0.32) diqqət çəkir. Başqa sözlə, qanda şəkər səviyyəsi yüksək olan pasiyentlərdə uzunmüddətli şəkər göstəricisi olan HbA1c də adətən yüksək olur.
+
+Ümumilikdə analiz göstərir ki, datasetdəki göstəricilər tibbi baxımdan məntiqli əlaqələr nümayiş etdirir və əldə olunan nəticələr real həyatda gözlənilən sağlamlıq tendensiyaları ilə uyğunluq təşkil edir.
 
 ---
 
