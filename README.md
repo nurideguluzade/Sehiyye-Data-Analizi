@@ -65,6 +65,18 @@ Yaş qrupları üzrə ən çox rast gəlinən üç diaqnoz təhlil edilmişdir. 
 
 ![Diaqnoz](screenshots/encoxdiaqnoz.png)
 
+Bu hissədə pasiyentlərin tibbi müraciət davranışları analiz olunub. Yəni pasiyentlərin səhiyyə sisteminə daha çox hansı səbəblərlə müraciət etdiyi araşdırılıb.
+
+Nəticələr göstərir ki, ən çox rast gəlinən müraciət növü Outpatient Encounter, yəni ambulator müraciətlər olub və ümumi müraciətlərin təxminən 47%-ni təşkil edib. Bu isə onu göstərir ki, pasiyentlərin böyük hissəsi xəstəxanaya yatış yox, gündəlik müayinə və tibbi xidmətlər üçün müraciət edir.
+
+Daha sonra simptomla bağlı müraciətlər (Encounter for symptom) və ambulator tibbi prosedurlar (Outpatient procedure) gəlir. Təcili yardım şöbəsinə qəbul (Emergency room admission) göstəricisinin isə digər müraciət növlərinə nisbətən daha aşağı olduğu görünür.
+
+Ən çox qeyd alınan diaqnoz isə Normal pregnancy, yəni normal hamiləliklə bağlı müraciətlər olub. Bundan sonra viral sinusit (Viral sinusitis) və kəskin viral boğaz iltihabı (Acute viral pharyngitis) kimi diaqnozlar gəlir. Bu isə datasetdə gündəlik və davamlı tibbi müraciətlərin üstünlük təşkil etdiyini göstərir.
+
+Yaş və cins üzrə orta müraciət sayına baxdıqda isə xüsusilə 19–40 yaş aralığında qadın pasiyentlərdə müraciət göstəricisinin daha yüksək olduğu görünür. Bu nəticə prenatal xidmətlər və mütəmadi tibbi yoxlamalarla əlaqəli ola bilər.
+
+Ümumilikdə analiz göstərir ki, səhiyyə sistemində əsas yük təcili hallardan çox, ambulator və davamlı tibbi xidmətlər üzərində formalaşır.
+
 ![Cinslər üzrə Diaqnoz](screenshots/cinsuzrediaqnoz.png)
 
 ![Diaqnoz üzrə ölüm ](screenshots/diaqnozuzreolum.png)
