@@ -92,6 +92,20 @@ Sistemdə ən çox ölçülən klinik göstəricilər təqdim olunmuşdur. Nəti
 
 ![BMI ](screenshots/bmiuzrepaylanma.png)
 
+
+
+Bu hissədə BMI göstəricisi ilə xəstəliklər arasındakı əlaqə analiz olunub. Məqsəd fərqli çəki qruplarında hansı xəstəliklərin daha çox müşahidə olunduğunu müəyyən etmək idi.
+
+İlk olaraq pasiyentlərin BMI üzrə paylanmasına baxdıqda ən böyük qrupun piylənmə, yəni obez kateqoriyasında olduğu görünür. Pasiyentlərin təxminən yarısı BMI göstəricisinə görə obez qrupuna daxildir.
+
+Analiz nəticəsində obez pasiyentlərdə viral sinusit, bronxit və astma kimi respirator xəstəliklərin daha yüksək müşahidə olunduğu görünür. Bu nəticə artıq çəkinin immun sisteminə və tənəffüs problemlərinə təsiri ilə əlaqəli ola bilər.
+
+Arıq pasiyentlərdə isə orta qulaq iltihabı (Otitis media) və bəzi infeksion xəstəliklərin daha çox müşahidə olunduğu görünür.
+
+Normal BMI qrupunda ən çox rast gəlinən diaqnoz isə normal hamiləliklə bağlı müraciətlərdir. Bu isə həmin qrupun daha balanslı sağlamlıq göstəricilərinə sahib olduğunu göstərə bilər.
+
+Ümumilikdə analiz göstərir ki, BMI göstəricisi müəyyən xəstəliklərin yaranma tezliyi ilə əlaqəli ola bilər və xüsusilə obez qrupunda respirator problemlər daha çox ön plana çıxır.
+
 ---
 
 ### Korrelyasiya Analizi
