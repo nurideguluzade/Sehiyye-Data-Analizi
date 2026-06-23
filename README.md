@@ -23,9 +23,12 @@ Yaş bölgüsünün paylanması göstərilmişdir.
 
 Yaş və cins üzrə bölgü təhlil edilmişdir.
 
-![Yaş qrupu üzrə sağ qalan/vəfat edən](screenshots/yashvolum&isag.png)
+![Yaş qrupu üzrə sağ qalan/vəfat edən](screenshots/olumeaparanxestelik.png)
 
 Nəticələrin yaş qrupları üzrə müqayisəsi aparılmışdır.
+
+![Yaş qrupu üzrə sağ qalan/vəfat edən](screenshots/yash&olum&sag.png)
+
 
 ![Yaş qrupu üzrə top diaqnoz ](screenshots/yashqrupudiaqnoz.png)
 
@@ -71,9 +74,9 @@ Hipotez testlərinin nəticələri təqdim edilmişdir.
 
 ![Z test](screenshots/Ztest.png)
 
-![Z test 2](screenshots/Ztest(2).png)
+![Z test 2](screenshots/Ztest (2).png)
 
-![Z test 3](screenshots/Ztest(3).png)
+![Z test 3](screenshots/Ztest (3).png)
 
 Statistik əhəmiyyətlilik yoxlanılmışdır.
 
