@@ -137,9 +137,25 @@ Dataset üzərində aparılmış data keyfiyyəti və aşkar edilmiş anomaliyal
 
 ![Hipotez](screenshots/Hipotez.png)
 
-Hipotez testlərinin nəticələri təqdim edilmişdir.
-
 ![Z test](screenshots/Ztest.png)
+
+
+Bu hissədə kişi və qadın pasiyentlər arasında ölüm göstəriciləri müqayisə olunub və bu fərqin statistik olaraq əhəmiyyətli olub-olmadığı yoxlanılıb.
+
+Nəticələr göstərir ki, kişilərdə ölüm göstəricisi təxminən 26.9%, qadınlarda isə 23% olub. Yəni, kişilərdə ölüm riski daha yüksək müşahidə olunub.
+
+Burada Z-test metodundan istifadə olunub. Məqsəd bu fərqin təsadüfi olub-olmadığını müəyyən etmək idi. Analiz nəticəsində p-value göstəricisi çox kiçik çıxdığı üçün fərqin statistik olaraq əhəmiyyətli olduğu müəyyən olunub. Yəni kişi və qadınlar arasında ölüm göstəriciləri fərqli hesab edilir.
+
+Aşağıdakı qrafikdə isə ölüm göstəriciləri və 95% etibar intervalı vizual şəkildə göstərilib. Qrafikdən də görünür ki, kişilərdə ölüm göstəricisi qadınlara nisbətən daha yüksəkdir.
+
+Ümumilikdə analiz göstərir ki, gender faktoru ölüm riski ilə əlaqəli dəyişənlərdən biri kimi qiymətləndirilə bilər.
+
+Burada məqsəd kişi və qadın pasiyentlər arasında ölüm göstəricilərində real fərq olub-olmadığını yoxlamaq idi.
+
+Çünki faizlər fərqli görünə bilər, amma bu fərqin həqiqətən əhəmiyyətli olub-olmadığını ayrıca yoxlamaq lazımdır.
+
+Analiz nəticəsində gördük ki, kişilərdə ölüm göstəricisi qadınlardan daha yüksəkdir və bu fərq təsadüfi deyil. Yəni gender faktorunun ölüm riski ilə müəyyən əlaqəsi olduğu müşahidə olunur.
+Bu cür analizlərin praktiki faydası risk qruplarını müəyyən etməyə və səhiyyə planlaşdırılmasında hansı qruplara daha çox nəzarət tələb edildiyini anlamağa kömək edir.
 
 ![Z test 2](screenshots/Ztest (2).png)
 
