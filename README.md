@@ -157,9 +157,9 @@ Burada məqsəd kişi və qadın pasiyentlər arasında ölüm göstəricilərin
 Analiz nəticəsində gördük ki, kişilərdə ölüm göstəricisi qadınlardan daha yüksəkdir və bu fərq təsadüfi deyil. Yəni gender faktorunun ölüm riski ilə müəyyən əlaqəsi olduğu müşahidə olunur.
 Bu cür analizlərin praktiki faydası risk qruplarını müəyyən etməyə və səhiyyə planlaşdırılmasında hansı qruplara daha çox nəzarət tələb edildiyini anlamağa kömək edir.
 
-![Z test 2](screenshots/Ztest (2).png)
+![Z test 2](./screenshots/Ztest%20(2).png)
 
-![Z test 3](screenshots/Ztest (3).png)
+![Z test 3](./screenshots/Ztest%20(3).png)
 
 Statistik əhəmiyyətlilik yoxlanılmışdır.
 
