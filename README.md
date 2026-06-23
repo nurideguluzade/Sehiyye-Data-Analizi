@@ -37,6 +37,7 @@ Minimum yaş göstəricisinin 0 olması datasetdə doğum və ölüm tarixinin e
 
 ![Yaş qrupu üzrə sağ qalan/vəfat edən](screenshots/olumeaparanxestelik.png)
 
+Minimum 500 müraciəti olan diaqnozlar arasında ən yüksək ölüm nisbətinə malik xəstəliklər göstərilmişdir. Nəticələrə əsasən, ağciyər xərçənginin irəliləmiş mərhələləri və şübhəli ağciyər xərçəngi hallarında ölüm riski ən yüksək səviyyədədir. Alzheimer xəstəliyi də yüksək ölüm göstəricisi ilə diqqət çəkir. Ümumilikdə analiz göstərir ki, ağır və xroniki xəstəliklər ölüm ehtimalını əhəmiyyətli dərəcədə artırır.
 
 ![Yaş qrupu üzrə sağ qalan/vəfat edən](screenshots/yash&olum&sag.png)
 
@@ -53,6 +54,8 @@ Yaş qrupları üzrə müqayisə etdikdə isə çox vacib bir tendensiya müşah
 Bu nəticə yaş faktorunun ölüm riski ilə birbaşa əlaqəli olduğunu göstərir.
 
 ![Yaş qrupu üzrə top diaqnoz ](screenshots/yashqrupudiaqnoz.png)
+
+Yaş qrupları üzrə ən çox rast gəlinən üç diaqnoz təhlil edilmişdir. Nəticələr göstərir ki, viral sinusit bütün yaş qruplarında ən çox müşahidə olunan diaqnozlar sırasında yer alır və geniş yayılmış sağlamlıq problemi kimi seçilir. 19–40 yaş qrupunda normal hamiləlik müraciət sayı baxımından digər diaqnozları əhəmiyyətli dərəcədə üstələyir. 41 yaşdan yuxarı qruplarda isə yuxarı tənəffüs yolları xəstəlikləri üstünlük təşkil edir. Təhlil göstərir ki, diaqnozların paylanması yaş qrupları üzrə fərqlənir və tibbi xidmətlərə olan tələbatın strukturu yaş amilindən əhəmiyyətli dərəcədə asılıdır.
 
 
 
