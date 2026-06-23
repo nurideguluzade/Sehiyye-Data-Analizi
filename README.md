@@ -171,6 +171,7 @@ Nəticə
 Bu layihə çərçivəsində səhiyyə məlumatları üzərində aparılan analizlər pasiyentlərin demoqrafik xüsusiyyətləri, müraciət davranışları, xəstəlik profilləri və ölüm göstəriciləri arasında mühüm əlaqələrin mövcud olduğunu göstərmişdir. Nəticələr yaşın, BMI göstəricisinin və bəzi xroniki xəstəliklərin ölüm riski və sağlamlıq göstəriciləri ilə əlaqəli olduğunu ortaya qoymuşdur. Həmçinin məlumatların təmizlənməsi və keyfiyyət auditinin etibarlı nəticələrin əldə edilməsində vacib rol oynadığı müəyyən edilmişdir.
 
 Tövsiyələr
+
 Yüksək risk qrupları (65+ yaş, yüksək BMI və ağır xroniki xəstəliklərə malik pasiyentlər) üçün profilaktik nəzarət tədbirləri gücləndirilməlidir.
 HbA1c və qlükoza kimi göstəricilər üzrə müntəzəm monitorinq davam etdirilməlidir.
 Məlumat keyfiyyətinin artırılması üçün boş və uyğunsuz qeydlərin aşkarlanması prosesləri avtomatlaşdırılmalıdır.
