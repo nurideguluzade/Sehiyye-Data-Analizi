@@ -9,7 +9,7 @@ Bu layihədə səhiyyə məlumatları üzərində deskriptiv analiz, korrelyasiy
 
 ---
 
-## Deskriptiv Analiz
+## Deskriptiv Analiz 
 
 ![Deskriptiv Analiz](screenshots/yash.png)
 
