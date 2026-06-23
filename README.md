@@ -128,7 +128,7 @@ Qlükoza ilə HbA1c arasında müsbət əlaqənin olması (0.32) diqqət çəkir
 
 ![Anomaliya](screenshots/anomaliya.png)
 
-Normadan kənar müşahidələr müəyyən edilmişdir.
+Dataset üzərində aparılmış data keyfiyyəti və aşkar edilmiş anomaliyalar təqdim olunmuşdur. Analiz zamanı gələcək tarixli doğum tarixləri, cədvəllər arasında uyğun gəlməyən pasiyent identifikatorları, ölüm tarixindən sonra qeydə alınmış müraciətlər, boş dəyərlər və klinik baxımdan mümkün olmayan HbA1c göstəriciləri müəyyən edilmişdir. Məlumatların etibarlılığını artırmaq məqsədilə kritik uyğunsuzluqlar datasetdən silinmiş, boş mətn dəyərləri isə NA formatına çevrilmişdir. Həmçinin sintetik məlumatlardan qaynaqlanan dublikat qeydlər sənədləşdirilmişdir. Aparılan təmizləmə prosesi sonrakı analizlərin daha dəqiq və etibarlı nəticələr verməsini təmin etmişdir.
 
 ---
 
