@@ -11,44 +11,44 @@ Bu layihədə səhiyyə məlumatları üzərində deskriptiv analiz, korrelyasiy
 
 ## Deskriptiv Analiz
 
-![Deskriptiv Analiz](AnalizScreenshots/yash.png)
+![Deskriptiv Analiz](screenshots/yash.png)
 
 Burada əsas statistik göstəricilər təqdim olunur.
 
-![Yaş](AnalizScreenshots/yashqrupu.png)
+![Yaş](screenshots/yashqrupu.png)
 
 Yaş bölgüsünün paylanması göstərilmişdir.
 
-![Yaş qrupu  və Cins](AnalizScreenshots/yashqrupu&cins.png)
+![Yaş qrupu  və Cins](screenshots/yashqrupu&cins.png)
 
 Yaş və cins üzrə bölgü təhlil edilmişdir.
 
-![Yaş qrupu üzrə sağ qalan/vəfat edən](AnalizScreenshots/yashvolum&isag.png)
+![Yaş qrupu üzrə sağ qalan/vəfat edən](screenshots/yashvolum&isag.png)
 
 Nəticələrin yaş qrupları üzrə müqayisəsi aparılmışdır.
 
-![Yaş qrupu üzrə top diaqnoz ](AnalizScreenshots/yashqrupudiaqnoz.png)
+![Yaş qrupu üzrə top diaqnoz ](screenshots/yashqrupudiaqnoz.png)
 
-![Müraciət sayı](AnalizScreenshots/encoxmuraciet.png)
-
-
-![Diaqnoz](AnalizScreenshots/encoxdiaqnoz.png)
-
-![Cinslər üzrə Diaqnoz](AnalizScreenshots/cinsuzrediaqnoz.png)
-
-![Diaqnoz üzrə ölüm ](AnalizScreenshots/diaqnozuzreolum.png)
+![Müraciət sayı](screenshots/encoxmuraciet.png)
 
 
-![Klinik göstəricilər](AnalizScreenshots/12klinikgosterici.png)
+![Diaqnoz](screenshots/encoxdiaqnoz.png)
+
+![Cinslər üzrə Diaqnoz](screenshots/cinsuzrediaqnoz.png)
+
+![Diaqnoz üzrə ölüm ](screenshots/diaqnozuzreolum.png)
 
 
-![BMI ](AnalizScreenshots/bmiuzrepaylanma.png)
+![Klinik göstəricilər](screenshots/12klinikgosterici.png)
+
+
+![BMI ](screenshots/bmiuzrepaylanma.png)
 
 ---
 
 ### Korrelyasiya Analizi
 
-![Korrelyasiya](AnalizScreenshots/korelyasiya.png)
+![Korrelyasiya](screenshots/korelyasiya.png)
 
 Dəyişənlər arasındakı əlaqələr araşdırılmışdır.
 
@@ -56,7 +56,7 @@ Dəyişənlər arasındakı əlaqələr araşdırılmışdır.
 
 ## Anomaliya Analizi
 
-![Anomaliya](AnalizScreenshots/anomaliya.png)
+![Anomaliya](screenshots/anomaliya.png)
 
 Normadan kənar müşahidələr müəyyən edilmişdir.
 
@@ -65,15 +65,15 @@ Normadan kənar müşahidələr müəyyən edilmişdir.
 
 ## Hipotez Testləri
 
-![Hipotez](AnalizScreenshots/Hipotez.png)
+![Hipotez](screenshots/Hipotez.png)
 
 Hipotez testlərinin nəticələri təqdim edilmişdir.
 
-![Z test](AnalizScreenshots/Ztest.png)
+![Z test](screenshots/Ztest.png)
 
-![Z test 2](AnalizScreenshots/Ztest(2).png)
+![Z test 2](screenshots/Ztest(2).png)
 
-![Z test 3](AnalizScreenshots/Ztest(3).png)
+![Z test 3](screenshots/Ztest(3).png)
 
 Statistik əhəmiyyətlilik yoxlanılmışdır.
 
