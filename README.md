@@ -40,6 +40,17 @@ Minimum yaş göstəricisinin 0 olması datasetdə doğum və ölüm tarixinin e
 
 ![Yaş qrupu üzrə sağ qalan/vəfat edən](screenshots/yash&olum&sag.png)
 
+Bu hissədə pasiyentlərin ailə vəziyyəti və sağ qalma göstəriciləri analiz olunub.
+
+Ümumi nəticələrə baxdıqda pasiyentlərin 75%-dən çoxunun sağ qaldığı, təxminən 25%-nin isə vəfat etdiyi görünür.
+
+Yaş qrupları üzrə müqayisə etdikdə isə çox vacib bir tendensiya müşahidə olunur. Yaş artdıqca vəfat edən pasiyentlərin nisbəti də artır. Məsələn:
+
+• 0–18 yaş qrupunda ölüm göstəricisi təxminən 8%-dir,
+
+• 65 yaşdan yuxarı qrupda isə bu göstərici təxminən 47%-ə qədər yüksəlir.
+
+Bu nəticə yaş faktorunun ölüm riski ilə birbaşa əlaqəli olduğunu göstərir.
 
 ![Yaş qrupu üzrə top diaqnoz ](screenshots/yashqrupudiaqnoz.png)
 
