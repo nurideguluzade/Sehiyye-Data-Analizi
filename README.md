@@ -139,6 +139,7 @@ Dataset üzərində aparılmış data keyfiyyəti və aşkar edilmiş anomaliyal
 
 ![Z test](screenshots/Ztest.png)
 
+![Z test 2](./screenshots/Ztest%20(2).png)
 
 Bu hissədə kişi və qadın pasiyentlər arasında ölüm göstəriciləri müqayisə olunub və bu fərqin statistik olaraq əhəmiyyətli olub-olmadığı yoxlanılıb.
 
@@ -157,14 +158,20 @@ Burada məqsəd kişi və qadın pasiyentlər arasında ölüm göstəricilərin
 Analiz nəticəsində gördük ki, kişilərdə ölüm göstəricisi qadınlardan daha yüksəkdir və bu fərq təsadüfi deyil. Yəni gender faktorunun ölüm riski ilə müəyyən əlaqəsi olduğu müşahidə olunur.
 Bu cür analizlərin praktiki faydası risk qruplarını müəyyən etməyə və səhiyyə planlaşdırılmasında hansı qruplara daha çox nəzarət tələb edildiyini anlamağa kömək edir.
 
-![Z test 2](./screenshots/Ztest%20(2).png)
 
-![Z test 3](./screenshots/Ztest%20(3).png)
-
-Statistik əhəmiyyətlilik yoxlanılmışdır.
 
 ---
 
 ## Nəticələr və Tövsiyələr
 
-Əldə olunan nəticələr səhiyyə göstəricilərinin daha yaxşı başa düşülməsinə və risk faktorlarının müəyyən edilməsinə imkan verir.
+Qeyd: Bu GitHub reposunda layihə çərçivəsində aparılmış analizlərin yalnız bir hissəsi təqdim edilmişdir. Daha ətraflı nəticələr, əlavə vizuallaşdırmalar və statistik təhlillər HTML hesabat faylında yer alır. Layihə ilə tam tanış olmaq üçün HTML faylını brauzerdə açmağınız tövsiyə olunur.
+
+Nəticə
+
+Bu layihə çərçivəsində səhiyyə məlumatları üzərində aparılan analizlər pasiyentlərin demoqrafik xüsusiyyətləri, müraciət davranışları, xəstəlik profilləri və ölüm göstəriciləri arasında mühüm əlaqələrin mövcud olduğunu göstərmişdir. Nəticələr yaşın, BMI göstəricisinin və bəzi xroniki xəstəliklərin ölüm riski və sağlamlıq göstəriciləri ilə əlaqəli olduğunu ortaya qoymuşdur. Həmçinin məlumatların təmizlənməsi və keyfiyyət auditinin etibarlı nəticələrin əldə edilməsində vacib rol oynadığı müəyyən edilmişdir.
+
+Tövsiyələr
+Yüksək risk qrupları (65+ yaş, yüksək BMI və ağır xroniki xəstəliklərə malik pasiyentlər) üçün profilaktik nəzarət tədbirləri gücləndirilməlidir.
+HbA1c və qlükoza kimi göstəricilər üzrə müntəzəm monitorinq davam etdirilməlidir.
+Məlumat keyfiyyətinin artırılması üçün boş və uyğunsuz qeydlərin aşkarlanması prosesləri avtomatlaşdırılmalıdır.
+Analitik nəticələrdən istifadə edilərək resursların və tibbi xidmətlərin daha effektiv planlaşdırılması təmin olunmalıdır.
