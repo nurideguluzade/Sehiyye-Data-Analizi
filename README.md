@@ -166,11 +166,11 @@ Bu cür analizlərin praktiki faydası risk qruplarını müəyyən etməyə və
 
 Qeyd: Bu GitHub reposunda layihə çərçivəsində aparılmış analizlərin yalnız bir hissəsi təqdim edilmişdir. Daha ətraflı nəticələr, əlavə vizuallaşdırmalar və statistik təhlillər HTML hesabat faylında yer alır. Layihə ilə tam tanış olmaq üçün HTML faylını brauzerdə açmağınız tövsiyə olunur.
 
-Nəticə
+-Nəticə:
 
 Bu layihə çərçivəsində səhiyyə məlumatları üzərində aparılan analizlər pasiyentlərin demoqrafik xüsusiyyətləri, müraciət davranışları, xəstəlik profilləri və ölüm göstəriciləri arasında mühüm əlaqələrin mövcud olduğunu göstərmişdir. Nəticələr yaşın, BMI göstəricisinin və bəzi xroniki xəstəliklərin ölüm riski və sağlamlıq göstəriciləri ilə əlaqəli olduğunu ortaya qoymuşdur. Həmçinin məlumatların təmizlənməsi və keyfiyyət auditinin etibarlı nəticələrin əldə edilməsində vacib rol oynadığı müəyyən edilmişdir.
 
-Tövsiyələr
+-Tövsiyələr:
 
 Yüksək risk qrupları (65+ yaş, yüksək BMI və ağır xroniki xəstəliklərə malik pasiyentlər) üçün profilaktik nəzarət tədbirləri gücləndirilməlidir.
 HbA1c və qlükoza kimi göstəricilər üzrə müntəzəm monitorinq davam etdirilməlidir.
