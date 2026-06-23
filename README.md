@@ -79,11 +79,16 @@ Yaş və cins üzrə orta müraciət sayına baxdıqda isə xüsusilə 19–40 y
 
 ![Cinslər üzrə Diaqnoz](screenshots/cinsuzrediaqnoz.png)
 
+Kişi və qadın pasiyentlər arasında ən çox rast gəlinən diaqnozlar müqayisə edilmişdir. Analiz göstərir ki, hər iki cinsdə viral sinusit, kəskin viral faringit və kəskin bronxit kimi tənəffüs sistemi xəstəlikləri ən geniş yayılmış diaqnozlar sırasındadır. Qadın pasiyentlərdə normal hamiləlik diaqnozu müraciət sayı baxımından digər bütün diaqnozları əhəmiyyətli dərəcədə üstələyir və ümumi müraciət strukturuna ciddi təsir göstərir. Kişi pasiyentlərdə isə viral sinusit ən çox qeydə alınan diaqnozdur. Nəticələr göstərir ki, ümumi xəstəlik profili oxşar olsa da, cinsə məxsus tibbi xidmətlər müraciət statistikasında nəzərəçarpacaq fərqlər yaradır.
+
 ![Diaqnoz üzrə ölüm ](screenshots/diaqnozuzreolum.png)
+
+Minimum 500 müraciətə malik diaqnozlar arasında ölüm nisbəti üzrə ilk 15 xəstəlik təhlil edilmişdir. Nəticələr göstərir ki, ən yüksək ölüm göstəriciləri ağciyər xərçənginin müxtəlif formalarında müşahidə olunur. Xüsusilə IV mərhələ kiçik hüceyrəli ağciyər xərçəngində ölüm nisbəti 94.8%-ə çatır. Alzheimer xəstəliyi də yüksək ölüm göstəricisi ilə diqqət çəkir. Analiz göstərir ki, onkoloji və degenerativ xəstəliklər pasiyentlərin sağ qalma ehtimalına ən ciddi təsir göstərən diaqnozlar sırasındadır.
 
 
 ![Klinik göstəricilər](screenshots/12klinikgosterici.png)
 
+Sistemdə ən çox ölçülən klinik göstəricilər təqdim olunmuşdur. Nəticələrə əsasən arterial təzyiq (sistolik və diastolik), bədən çəkisi, boy və bədən kütlə indeksi ən çox qeydə alınan göstəricilərdir. Bu göstəricilərin yüksək tezliklə ölçülməsi onların pasiyentlərin ümumi sağlamlıq vəziyyətinin qiymətləndirilməsində əsas rol oynadığını göstərir. Həmçinin qlükoza və HbA1c kimi göstəricilərin geniş istifadə olunması metabolik və şəkərli diabetlə bağlı risklərin müntəzəm izlənildiyini göstərir. Analiz ümumi tibbi nəzarətdə həyati və laborator göstəricilərin prioritet yer tutduğunu təsdiqləyir.
 
 ![BMI ](screenshots/bmiuzrepaylanma.png)
 
