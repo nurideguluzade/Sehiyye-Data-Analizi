@@ -13,27 +13,41 @@ Bu layihədə səhiyyə məlumatları üzərində deskriptiv analiz, korrelyasiy
 
 ![Deskriptiv Analiz](screenshots/yash.png)
 
-Burada əsas statistik göstəricilər təqdim olunur.
-
 ![Yaş](screenshots/yashqrupu.png)
-
-Yaş bölgüsünün paylanması göstərilmişdir.
 
 ![Yaş qrupu  və Cins](screenshots/yashqrupu&cins.png)
 
-Yaş və cins üzrə bölgü təhlil edilmişdir.
+Bu hissədə pasiyentlərin yaş strukturu analiz olunub. Nəticələr göstərir ki, sistemdə ən böyük pasiyent qrupu 41–65 yaş aralığıdır və ümumi datasetin 36.7%-ni təşkil edir.
+
+Bu onu göstərir ki, tibbi müraciətlərin əsas hissəsi orta yaş qrupunda cəmləşir. Yəni insanlar yaş artdıqca daha çox tibbi nəzarətə və müayinəyə ehtiyac duyurlar.
+
+19–40 yaş qrupu da yüksək paya sahibdir. Bu yaşlarda müraciətlər daha çox ümumi müayinələr və gündəlik sağlamlıq xidmətləri ilə əlaqəli ola bilər.
+
+65 yaşdan yuxarı pasiyentlərin payının yüksək olması isə vacib göstəricidir. Çünki bu yaş qrupunda davamlı nəzarət və müalicə ehtiyacı daha çox olur.
+
+Qrafikdə 0 yaşlı pasiyentlərin görünməsinin əsas səbəbi isə datasetdə bəzi körpələrin 1 yaşdan kiçik olması və 9 pasiyentin doğulduğu gün vəfat etməsi ilə əlaqəlidir. Yəni burada 0 yaş göstəricisi texniki olaraq yeni doğulmuş pasiyentləri ifadə edir.
+
+Ümumilikdə analiz göstərir ki, yaş faktoru tibbi müraciət intensivliyinə birbaşa təsir edən əsas göstəricilərdən biridir.
+
+Minimum yaş göstəricisinin 0 olması datasetdə doğum və ölüm tarixinin eyni günə təsadüf etdiyi, həmçinin 1 yaşdan kiçik pasiyentlərin mövcudluğu ilə əlaqədardır.
+
+
+
+
 
 ![Yaş qrupu üzrə sağ qalan/vəfat edən](screenshots/olumeaparanxestelik.png)
 
-Nəticələrin yaş qrupları üzrə müqayisəsi aparılmışdır.
 
 ![Yaş qrupu üzrə sağ qalan/vəfat edən](screenshots/yash&olum&sag.png)
 
 
 ![Yaş qrupu üzrə top diaqnoz ](screenshots/yashqrupudiaqnoz.png)
 
-![Müraciət sayı](screenshots/encoxmuraciet.png)
 
+
+
+
+![Müraciət sayı](screenshots/encoxmuraciet.png)
 
 ![Diaqnoz](screenshots/encoxdiaqnoz.png)
 
